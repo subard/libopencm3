@@ -32,6 +32,8 @@
 #       include <libopencm3/stm32/f4/spi.h>
 #elif defined(STM32F7)
 #       include <libopencm3/stm32/f7/spi.h>
+#elif defined(STM32G4)
+#       include <libopencm3/stm32/g4/spi.h>
 #elif defined(STM32L0)
 #       include <libopencm3/stm32/l0/spi.h>
 #elif defined(STM32L1)
